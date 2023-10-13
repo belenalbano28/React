@@ -1,0 +1,9 @@
+1. crear un componente /
+2. recibir una prop con el anio actual/
+3. usar funcion para traer el anio/
+4. usar estados y eventos para tener dos botones:/
+-pasar al proximo anio/
+-ir al anio anterior/
+-mostrar el anio por pantalla en todo momento/
+5. validar que el anio sea un numero y sea requerido./
+6. cambiar el anio mediante un input de texto y que se cambie dinamicamente./
